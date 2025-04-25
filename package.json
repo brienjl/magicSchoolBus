@@ -1,0 +1,30 @@
+{
+  "name": "magicschoolbus",
+  "version": "1.0.0",
+  "description": "collect and analyze press releases from the department of education",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brienjl/magicSchoolBus.git"
+  },
+  "keywords": [
+    "ai",
+    "education",
+    "legal",
+    "analysis"
+  ],
+  "author": "jeremybrien",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brienjl/magicSchoolBus/issues"
+  },
+  "homepage": "https://github.com/brienjl/magicSchoolBus#readme",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cheerio": "^1.0.0"
+  }
+}
